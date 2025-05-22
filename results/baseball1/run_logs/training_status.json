@@ -1,0 +1,65 @@
+{
+    "Baseball": {
+        "checkpoints": [
+            {
+                "steps": 12763,
+                "file_path": "results\\baseball1\\Baseball\\Baseball-12763.onnx",
+                "reward": null,
+                "creation_time": 1747455289.6399791,
+                "auxillary_file_paths": [
+                    "results\\baseball1\\Baseball\\Baseball-12763.pt"
+                ]
+            },
+            {
+                "steps": 13855,
+                "file_path": "results\\baseball1\\Baseball\\Baseball-13855.onnx",
+                "reward": -0.99866500256523,
+                "creation_time": 1747459607.2650585,
+                "auxillary_file_paths": [
+                    "results\\baseball1\\Baseball\\Baseball-13855.pt"
+                ]
+            },
+            {
+                "steps": 15539,
+                "file_path": "results\\baseball1\\Baseball\\Baseball-15539.onnx",
+                "reward": -0.9986872227536034,
+                "creation_time": 1747459755.6095138,
+                "auxillary_file_paths": [
+                    "results\\baseball1\\Baseball\\Baseball-15539.pt"
+                ]
+            },
+            {
+                "steps": 69949,
+                "file_path": "results\\baseball1\\Baseball\\Baseball-69949.onnx",
+                "reward": -0.9986592320447468,
+                "creation_time": 1747461816.8803236,
+                "auxillary_file_paths": [
+                    "results\\baseball1\\Baseball\\Baseball-69949.pt"
+                ]
+            },
+            {
+                "steps": 71786,
+                "file_path": "results\\baseball1\\Baseball\\Baseball-71786.onnx",
+                "reward": -0.9986364486125799,
+                "creation_time": 1747462189.9466724,
+                "auxillary_file_paths": [
+                    "results\\baseball1\\Baseball\\Baseball-71786.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 71786,
+            "file_path": "results\\baseball1\\Baseball.onnx",
+            "reward": -0.9986364486125799,
+            "creation_time": 1747462189.9466724,
+            "auxillary_file_paths": [
+                "results\\baseball1\\Baseball\\Baseball-71786.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
